@@ -11,3 +11,4 @@ end
 board = [" X ", " 0 ", " 0 ", " ", " ", " ", " ", " ", " "]
 
 display_board(board)
+d
