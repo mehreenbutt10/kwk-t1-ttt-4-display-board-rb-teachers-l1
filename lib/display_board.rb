@@ -7,3 +7,5 @@ def display_board
   puts "___________"
   puts "   |   |   "
 end
+
+display_board
